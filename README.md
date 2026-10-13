@@ -1,7 +1,4 @@
 > **"The most trustworthy superintelligence system will not be the one with the model we trust most. It will be the one that enables us to trust the model the least."**
-
->
-
 > — Satya Nadella, Chairman and CEO of Microsoft (10 October 2026)
 
 # Dependable AI Initiative
